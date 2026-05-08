@@ -10,6 +10,8 @@
 
 ### 💡 Others
 
+- Reexport permission hooks and permission types from `expo-modules-core`.
+
 ## 56.0.0-preview.5 — 2026-05-06
 
 _This version does not introduce any user-facing changes._
